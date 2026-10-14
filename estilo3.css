@@ -1,0 +1,27 @@
+body {
+    background-image: url(Fondo3.png);
+     background-size: cover;
+    background-repeat: no-repeat;
+}
+#Pag3 {
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 2rem;
+    width: 209px;
+    height: 100px;
+    position: relative;
+    left: 1300px;
+    top: 600px;
+}
+#Leyenda {
+    color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-size: 4rem;
+    width: 80%;
+    height: 80%;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}

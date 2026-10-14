@@ -1,0 +1,38 @@
+body {
+    background-image: url(Fondo1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}    
+#Titulodelapag{
+    color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 8rem;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 1000px;
+    bottom: 50px;
+}
+#imagenuno {
+    position: relative;
+    left: 1400px;
+    top: -225px;
+}
+
+#gifuno {
+    position: relative;
+    left: 1100px;
+    top: -70px;
+}
+#Pag1 {
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 2rem;
+    width: 209px;
+    height: 100px;
+    position: relative;
+    left: 1100px;
+    top: 600px;
+}

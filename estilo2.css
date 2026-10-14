@@ -1,0 +1,453 @@
+body {
+    background-image: url(Fondo2.png);
+        background-size: cover;
+    background-repeat: no-repeat;
+}
+#Pag1 {
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 2rem;
+    width: 209px;
+    height: 100px;
+    position: relative;
+    left: 1100px;
+    top: 600px;
+}
+
+#Fruta1 {
+    background-image: url(Ajo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#Fruta2 {
+    background-image: url(Arandano.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+#Fruta3 {
+    background-image: url(Banana.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+    top: 10px;
+}
+#Fruta4 {
+    background-image: url(Berenjena.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 130px;
+    top: 10px;
+}
+#Fruta5 {
+    background-image: url(Calabaza.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 170px;
+    top: 10px;
+}
+#Fruta6 {
+    background-image: url(Cerezas.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 210px;
+    top: 10px;
+}
+#Fruta7 {
+    background-image: url(Champiñon\ comun.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+#Fruta8 {
+    background-image: url(Chile\ rojo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 290px;
+    top: 10px;
+}
+#Fruta9 {
+    background-image: url(Chile\ verde.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: -823px;
+    top: 250px;
+}
+#Fruta10 {
+    background-image: url(col\ china..png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: -780px;
+    top: 250px;
+}
+#Fruta11 {
+    background-image: url(Durazno.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: -737px;
+    top: 250px;
+}
+
+#Fruta12 {
+    background-image: url(Fresa.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: -694px;
+    top: 250px;
+}
+
+#Fruta13 {
+    background-image: url(Jitomate.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: -651px;
+    top: 250px;
+}
+#Fruta14 {
+    background-image: url(Mango.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 950px;
+    top: 117px;
+}
+
+#Fruta15 {
+    background-image: url(manzana..png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 980px;
+    top: 117px;
+}
+#Coin1 {
+    position: relative;
+    left: 95px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin2 {
+    position: relative;
+    left: 208px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin3 {
+    position: relative;
+    left: 321px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin4 {
+    position: relative;
+    left: 439px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin5 {
+    position: relative;
+    left: 553px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin6 {
+    position: relative;
+    left: 667px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin7 {
+    position: relative;
+    left: 781px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin8 {
+    position: relative;
+    left: 895px;
+    top: -70px;
+    width: 25px;
+    height: 25px;
+}
+#Coin9 {
+    position: relative;
+    left: -9%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+#Coin10 {
+    position: relative;
+    left: -1.5%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+#Coin11 {
+    position: relative;
+    left: 6%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+#Coin12 {
+    position: relative;
+    left: 13.5%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+#Coin13 {
+    position: relative;
+    left: 20.9%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+#Coin14 {
+    position: relative;
+    left: 28%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+#Coin15 {
+    position: relative;
+    left: 34.7%;
+    top: 180px;
+    width: 25px;
+    height: 25px;
+}
+
+#etiqueta1 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 13%;
+    top: -120px    ;
+}
+#etiqueta2 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 22%;
+    top: -160px    ;
+}
+
+#etiqueta3 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 31%;
+    top: -200px    ;
+}
+#etiqueta4 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 40%;
+    top: -242px    ;
+}
+#etiqueta5 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 50%;
+    top: -280px    ;
+}
+#etiqueta6 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 59%;
+    top: -322px    ;
+}
+#etiqueta7 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 68%;
+    top: -360px    ;
+}
+#etiqueta8 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 77%;
+    top: -400px    ;
+}
+#etiqueta9 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 13%;
+    top: -200px    ;
+}
+#etiqueta10 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 22%;
+    top: -243px    ;
+}
+#etiqueta11 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 31.8%;
+    top: -286px    ;
+}
+#etiqueta12 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 41%;
+    top: -325px    ;
+}
+#etiqueta13 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 50%;
+    top: -368px    ;
+}
+#etiqueta14 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 59%;
+    top: -410px    ;
+}
+#etiqueta15 {
+color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    font-size: 2rem;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 68%;
+    top: -450px    ;
+}
+#Pag3 {
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 2rem;
+    width: 209px;
+    height: 100px;
+    position: relative;
+    left: 10%;
+    top: -250px;
+}
