@@ -1,0 +1,129 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-image: url(Fondo2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#barra {
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 5% 1% 5%;
+}
+#barra a {
+    width: 15%;
+}
+#Pag1,
+#Pag3 {
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.15vw;
+    font-size: 1.6vw;
+    width: 100%;
+    aspect-ratio: 2 / 1;
+}
+
+#tabla {
+    width: 70%;
+    margin: 0 auto;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+#tabla td {
+    width: 20%;
+    padding: 1%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.fruta {
+    display: block;
+    width: 80%;
+    aspect-ratio: 1 / 1;
+    margin: 0 auto;
+    border: none;
+    background-color: transparent;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.precio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4%;
+    margin-top: 4%;
+}
+.moneda {
+    width: 18%;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+}
+.etiqueta {
+    color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.05vw;
+    font-size: 1.6vw;
+    font-weight: bold;
+}
+
+.comprar {
+    display: block;
+    width: 80%;
+    margin: 4% auto 0 auto;
+    padding: 4% 0;
+    font-size: 1.3vw;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#Fruta1 {
+    background-image: url("Ajo.png");
+}
+#Fruta2 {
+    background-image: url("Arandano.png");
+}
+#Fruta3 {
+    background-image: url("Banana.png");
+}
+#Fruta4 {
+    background-image: url("Berenjena.png");
+}
+#Fruta5 {
+    background-image: url("Calabaza.png");
+}
+#Fruta6 {
+    background-image: url("Cerezas.png");
+}
+#Fruta7 {
+    background-image: url("Champiñon comun.png");
+}
+#Fruta8 {
+    background-image: url("Chile rojo.png");
+}
+#Fruta9 {
+    background-image: url("Chile verde.png");
+}
+#Fruta10 {
+    background-image: url("col china..png");
+}
+#Fruta11 {
+    background-image: url("Durazno.png");
+}
+#Fruta12 {
+    background-image: url("Fresa.png");
+}
+#Fruta13 {
+    background-image: url("Jitomate.png");
+}
+#Fruta14 {
+    background-image: url("Mango.png");
+}
+#Fruta15 {
+    background-image: url("manzana..png");
+}
